@@ -1,1 +1,18 @@
-# DropDownList-Angular-form-post
+
+# EJ2 DropDownList Angular form post.
+
+## Installing
+
+To install all dependent packages, use the below command
+
+```
+npm install
+```
+
+## Run the application
+
+To compile and run the source files, use the below command
+
+```
+npm start
+```
