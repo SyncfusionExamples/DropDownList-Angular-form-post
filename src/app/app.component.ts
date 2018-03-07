@@ -13,7 +13,7 @@ import { Country } from './country';
         <form id="formId" class="form-horizontal"> 
         <label> EJ2 DropDownList</label>
             <div class="form-group">
-                <ej-dropdownlist id='games' #sample [dataSource]='sportsData' [value]='value' [fields]='fields' [placeholder]='waterMark' [width]='width' [popupHeight]='height'></ej-dropdownlist>
+                <ejs-dropdownlist id='games' #sample [dataSource]='sportsData' [value]='value' [fields]='fields' [placeholder]='waterMark' [width]='width' [popupHeight]='height'></ejs-dropdownlist>
             </div>
             <label> Angular Select </label>
               <div class="form-group">
